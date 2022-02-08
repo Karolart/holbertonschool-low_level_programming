@@ -3,5 +3,5 @@
 echo "Best School" > '\\\'\''"Best School"\'\''\\$\?\\\\\*:)'
 
 =======
-echo "Best School" >> "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
->>>>>>> 0fc9d7b1fdf1267d4581b83fdcb39aa834210d58
+echo "Best School" > '\\\'\''"Best School"\'\''\\$\?\\\\\*:)' 
+>>>>>>> 460e16f4f3188fbc9bea6e3544bdfe8c723b1be8
