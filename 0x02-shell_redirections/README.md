@@ -1,1 +1,1 @@
-*more acout shell *
+*more about shell *
