@@ -1,0 +1,11 @@
+#include <stdio.h>
+/**
+ * Description: main - show in the screen a sentence , printi a string out.
+ * Return: 0 (always if Sucess)
+ */
+int main(void)
+{
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
+}
+
