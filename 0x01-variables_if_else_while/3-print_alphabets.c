@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 /**
@@ -16,9 +15,7 @@ int main(void)
                putchar(ch);
         }
 
-
-	
-    for (ch = 'A'; c <= 'Z'; c++)
+   for (ch = 'A'; c <= 'Z'; c++)
 	{
 		putchar(ch);
 	}
